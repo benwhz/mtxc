@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">矩阵控制程序</string>
-    <string name="app_version_name">1.0.3</string>
+    <string name="app_version_name">1.0.4</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">矩阵控制程序</string>
-    <string name="nav_header_subtitle">版本号 1.0.3</string>
+    <string name="nav_header_subtitle">版本号 1.0.4</string>
     <string name="nav_header_desc">Navigation header</string>
 
     <string name="action_settings">设定</string>
@@ -58,8 +58,8 @@
     <string name="title_activity_scheme">SchemeActivity</string>
     <string name="menu_load_scheme">加载预案</string>
     <string name="menu_save_scheme">保存预案</string>
-    <string name="copyright">Copyright © 2019 IWEON, All Rights Reserved.</string>
-    <string name="copyright_iweon">Copyright © IWEON 2019, All Rights Reserved.</string>
+    <string name="copyright">Copyright © 2019 - 2020 IWEON, All Rights Reserved.</string>
+    <string name="copyright_iweon">Copyright © 2019 - 2020 IWEON, All Rights Reserved.</string>
     <string name="email_title">产品咨询和建议</string>
     <string name="email_content">请输入您的咨询和建议内容。</string>
     <string name="msg_offline_device">矩阵设备已经离线</string>
@@ -75,4 +75,5 @@
     <string name="progress_msg_switch_all_channel">正在切换所有通道......</string>
     <string name="progress_msg_load_scheme">正在加载预案......</string>
     <string name="device_timeout">通讯超时：</string>
+    <string name="menu_title_switch">切换</string>
 </resources>

@@ -13,8 +13,7 @@
         app:showAsAction="always" />
     <item
         android:id="@+id/momSwitch"
-        android:icon="@drawable/ic_action_switch"
-        android:title="@string/menu_title_mode"
+        android:title="@string/menu_title_switch"
         android:visible="false"
         app:showAsAction="always" />
     <item

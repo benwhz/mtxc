@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Matrix Controller</string>
-    <string name="app_version_name">1.0.3</string>
+    <string name="app_version_name">1.0.4</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Matrix Controller</string>
-    <string name="nav_header_subtitle">Version 1.0.3</string>
+    <string name="nav_header_subtitle">Version 1.0.4</string>
     <string name="nav_header_desc">Navigation header</string>
 
     <string name="action_settings">Settings</string>
@@ -57,8 +57,8 @@
     <string name="title_activity_scheme">SchemeActivity</string>
     <string name="menu_load_scheme">Load Scheme</string>
     <string name="menu_save_scheme">Save Scheme</string>
-    <string name="copyright">Copyright © 2019 IWEON, All Rights Reserved.</string>
-    <string name="copyright_iweon">Copyright © 2019 IWEON, All Rights Reserved.</string>
+    <string name="copyright">Copyright © 2019 - 2020 IWEON, All Rights Reserved.</string>
+    <string name="copyright_iweon">Copyright © 2019 - 2020 IWEON, All Rights Reserved.</string>
     <string name="email_title">Product Consultation and User Advice</string>
     <string name="email_content">Please enter your suggestions and inquiries.</string>
     <string name="msg_offline_device">The matrix is offline.</string>
@@ -74,4 +74,5 @@
     <string name="progress_msg_switch_all_channel">Switching all channels......</string>
     <string name="progress_msg_load_scheme">Loading scheme......</string>
     <string name="device_timeout">Timeout:</string>
+    <string name="menu_title_switch">Switch</string>
 </resources>
