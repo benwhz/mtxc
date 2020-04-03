@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_switch"
+        android:icon="@drawable/navigation_switch"
+        android:title="@string/title_switch" />
+
+    <item
+        android:id="@+id/navigation_status"
+        android:icon="@drawable/navigation_status"
+        android:title="@string/title_status" />
+    <item
+        android:id="@+id/navigation_scheme"
+        android:icon="@drawable/navigation_scheme"
+        android:title="@string/title_scheme" />
+
+</menu>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_name_title">Name:</string>
+    <string name="device_incount_title">IN:</string>
+    <string name="device_outcount_title">OUT:</string>
+    <string name="device_ip_title">IP:</string>
+    <string name="device_port_title">PORT:</string>
+    <string name="del_confirm_title">Delete Confirm</string>
+    <string name="msg_delete_device_confirm">Are you sure to delete the item?</string>
+    <string name="msg_delete_scheme_confirm">Are you sure to delete the item?</string>
+    <string name="msg_input_scheme_name">Please input the scheme name</string>
+    <string name="msg_resave_scheme">Please re-save the status as a new scheme</string>
+    <string name="msg_input_channel_title">Please input the channel title.</string>
+    <string name="menu_title_create">Create</string>
+    <string name="menu_title_refresh">Refresh</string>
+    <string name="menu_title_mode">Mode</string>
+    <string name="msg_communication_err">Communication timeout......</string>
+    <string name="msg_communication_ok">Communication failed</string>
+    <string name="device_ip_title_info">IP:</string>
+    <string name="device_ip_port_info">Port:</string>
+    <string name="msg_title_offline">[Offline]</string>
+    <string name="msg_title_online">[Online]</string>
+    <string name="apply_confirm_title">Apply Scheme</string>
+    <string name="msg_apply_scheme_confirm">Do you want apply the selected scheme?</string>
+    <string name="menu_load_scheme">Load Scheme</string>
+    <string name="menu_save_scheme">Save Scheme</string>
+    <string name="copyright">Copyright © 2019 IWEON, All Rights Reserved.</string>
+    <string name="copyright_iweon">Copyright © 2019 IWEON, All Rights Reserved.</string>
+    <string name="email_title">Product Consultation and User Advice</string>
+    <string name="email_content">Please enter your suggestions and inquiries.</string>
+    <string name="msg_offline_device">Cannot create scheme for the offline matrix.</string>
+    <string name="in_index_string">IN:[%d]</string>
+    <string name="in_index_invalid_string">IN:[?]</string>
+    <string name="out_index_string">OUT:[%d]</string>
+    <string name="in_index_scheme_string">SCHEME IN:[%d]</string>
+    <string name="in_title">In#</string>
+    <string name="out_title">Out#</string>
+    <string name="progress_msg_query_id">Querying id......</string>
+    <string name="progress_msg_query_status">Querying status......</string>
+    <string name="progress_msg_switch_channel">Switching channels......</string>
+    <string name="progress_msg_switch_all_channel">Switching all channels......</string>
+    <string name="progress_msg_load_scheme">Loading scheme......</string>
+    <string name="device_timeout">Timeout:</string>
+</resources>

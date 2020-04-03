@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/momCreatePlan"
+        android:icon="@drawable/ic_action_add"
+        android:title="@string/menu_title_create"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/momRefreshStatus"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="@string/menu_title_refresh"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/momSwitch"
+        android:icon="@drawable/ic_action_switch"
+        android:title="@string/menu_title_mode"
+        android:visible="false"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/momCheckAll"
+        android:checkable="true"
+        android:icon="@drawable/ic_action_unchecked"
+        android:title="@android:string/selectAll"
+        app:showAsAction="ifRoom" />
+</menu>

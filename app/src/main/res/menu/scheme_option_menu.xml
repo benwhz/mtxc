@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/loadScheme"
+        android:title="@string/menu_load_scheme" />
+    <item
+        android:id="@+id/saveScheme"
+        android:title="@string/menu_save_scheme" />
+</menu>

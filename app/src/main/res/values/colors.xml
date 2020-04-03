@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="colorAccentBorder">#00BCD4</color>
+
+
+    <color name="itemPressed">#EEEEEE</color>
+    <color name="itemBackground">#FFFFFF</color>
+
+    <color name="itemEditArea">#919191</color>
+    <color name="itemDeleteArea">#FF5722</color>
+
+    <color name="gridItemBackground">#B0B3B1</color>
+    <color name="gridItemBorder">#5F5F5F</color>
+
+</resources>
